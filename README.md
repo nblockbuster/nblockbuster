@@ -1,1 +1,2 @@
-[![nblock's GitHub stats](https://github-readme-stats.vercel.app/api?username=nblockbuster&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats-ruby-eight-40.vercel.app/api?username=nblockbuster&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" alt="stats graph" /> <br>
+<img src="https://github-readme-stats-ruby-eight-40.vercel.app/api/top-langs?username=nblockbuster&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" alt="languages graph"  />
